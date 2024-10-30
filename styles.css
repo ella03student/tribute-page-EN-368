@@ -1,0 +1,130 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+      box-sizing: border-box;
+    }
+      
+      body {
+        font-family: "Inter", sans-serif;
+        color: #644167;
+      background-color: #F3F3EB;
+    }
+    
+    header {
+      text-align: center;
+      font-family: Gloock, serif;
+      height: 14rem;
+      width: 100%;
+      background-color: #BB9AB1;
+      color: #F3F3EB;
+      display: flex;
+      justify-content: center;
+      font-size: 3.6rem;
+      padding-top: 15px
+      }
+      
+      h1 {
+        padding-top: 20px;
+      }
+      
+      
+      h2 {
+        font-family: Inter, sans-serif;
+        color: #BB9AB1;
+        font-size: 2.2rem;
+        text-align: center;
+        font-weight: normal;
+        margin: 40px auto
+      }
+      
+      .speech {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+      height: auto;
+      object-fit: cover;
+      border-radius: 25px;
+      }
+    
+      .timeline {
+        width: 80%;
+        margin-left: auto;
+      margin-right: auto;
+        margin-top: 40px;
+      padding: 20px;
+      max-width: 800px;
+        font-size: 1.4rem;
+        margin-bottom: -30px
+      }
+    
+      .quote {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-size: 1.9rem;
+        max-width: 640px;
+        margin: 10px auto -50px auto;
+        color: #F3F3EB;
+      }
+      
+      .credit {
+        text-align: center;
+        font-size: 2.5rem;
+        font-family: Gloock, serif;
+        color: #644167;
+      }
+    
+      
+      .bottom-container {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        padding: 20px;
+        max-width: 800px;
+        font-size: 1.4rem;
+        margin-bottom: -40px;
+        text-align: center;
+      }
+     
+      a {
+        color: #F3F3EB;
+      }
+    
+      a:hover {
+        color: #644167;
+      }
+    
+      .learnmore {
+        color: #F3F3EB;
+        font-size: 1.2rem;
+        max-width: 500px;
+        text-align: center;
+        margin: 15px auto auto auto
+      }
+    
+      .imagescarf {
+      border-radius: 15px;
+      height: 300px;
+      margin-right: 10px;
+      }
+    
+      .imagecloseup {
+        height: 300px;
+      border-radius: 15px;
+    
+      }
+    
+       
+      .bottom {
+        background-color: #BB9AB1;
+        width: 100%;
+        height: 50rem;
+      }
+    
+    
+      .image-container img {
+        display: inline;
+        margin-top: 20px;
+      }
